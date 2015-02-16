@@ -1,0 +1,581 @@
+001, Absorb, 10, 20, 25, 100, Special, User recovers half the damage inflicted
+002, Acid, 14, 40, 30, 100, Special, 10% chance of lowering opponent's special defense one stage
+003, Acid Armor, 14, 0, 20, 0, Status, Raises user's defense two stages
+004, Acid Spray, 14, 40, 20, 100, Special, Lowers opponents special defense two stages
+005, Acrobatics, 08, 55, 15, 100, Physical, deals double damage if user is not holding an item
+006, Acupressure, 13, 0, 30, 0, Status, Raises one of the user's stats randomly by two stages
+007, Aerial Ace, 08, 60, 20, 0, Physical, This attack lands without fail
+008, After You, 13, 0, 15, 0, Status, User helps its target move immediately after the user
+009, Agility, 15, 0, 30, 0, Status, Raises user's speed by two stages
+010, Air Cutter, 08, 60, 25, 95, Special, Has a high critical hit ratio
+011, Air Slash, 08, 75, 20, 95, Special, May cause opponent to flinch
+012, Ally Switch, 15, 0, 15, 0, Status, Switches places with other Pokemon on the field
+013, Amnesia, 15, 0, 15, 0, Status, Raises user's special defense two stages
+014, Ancient Power, 16, 60, 5, 100, Special, 10% chance of raising all user's stats one stage
+015, Aqua Jet, 18, 40, 20, 100, Physical, User always strikes first
+016, Aqua Ring, 18, 0, 20, 0, Status, Recovers 1/16th of user's maximum HP each turn
+017, Aqua Tail, 18, 90, 10, 90, Physical, NULL
+018, Arm Thrust, 06, 15, 20, 100, Physical, Attacks 2-5 times in a row
+019, Aromatherapy, 10, 0, 5, 0, Status, Heals party's status problems
+020, Aromatic Mist, 05, 0, 20, 100, Status, Raises ally Pokemon's special defense one stage
+021, Assist, 13, 0, 20, 0, Status, The user uses a random move from another Pokemon in the user's team
+022, Assurance, 02, 60, 10, 100, Physical, if the target has taken damage this turn this attack's power is doubled
+023, Astonish, 09, 30, 15, 100, Physical, 30% chance of causing the opponent to flinch
+024, Attack Order, 01, 90, 15, 100, Physical, Has high critical hit ratio
+025, Attract, 13, 0, 15, 100, Status, Induces attraction
+026, Aura Sphere, 06, 80, 20, 0, Special, Cannot miss
+027, Aurora Beam, 12, 65, 20, 100, Special, 10% chance of lowering opponent's attack one stage
+028, Autotomize, 17, 0, 15, 0, Status, Raises user's speed two stages and halves user's weight
+029, Avalanche, 12, 60, 10, 100, Physical, Power doubles if user has been hit that turn
+030, Baby-Doll Eyes, 05, 0, 30, 100, Status, Lowers opponent's attack one stage
+031, Barrage, 13, 15, 20, 85, Physical, Attacks 2-5 times in a row
+032, Barrier, 15, 0, 20, 0, Status, Raises user's defense two stages
+033, Baton Pass, 13, 0, 40, 0, Status, Switches out the user but status changes remain
+034, Beat Up, 02, 1, 10, 100, Physical, Does additional damage for every Pokemon in trainer's team
+035, Belch, 14, 120, 10, 90, Special, User must consume a Berry to use this move
+036, Belly Drum, 13, 0, 10, 0, Status, Cuts half of user's maximum HP to maximize attack
+037, Bestow, 13, 0, 15, 0, Status, User passes held item to target if target has no hold item
+038, Bide, 13, 1, 10, 0, Physical, User takes hits for two rounds, then strikes back
+039, Bind, 13, 15, 20, 85, Physical, Attacks opponent over four to five turns
+040, Bite, 02, 60, 25, 100, Physical, 30% chance of causing opponent to flinch
+041, Blast Burn, 07, 150, 5, 90, Special, User cannot attack on next turn
+042, Blaze Kick, 07, 85, 10, 90, Physical, High critical hit ratio. 10% chance of causing burn
+043, Blizzard, 12, 110, 5, 70, Special, 10% chance of freezing opponent
+044, Block, 13, 0, 5, 0, Status, Prevents opponent from escaping
+045, Body Slam, 13, 85, 15, 100, Physical, 30% chance of causing paralysis
+046, Bone Club, 11, 65, 20, 85, Physical, 10% chance of causing opponent to flinch
+047, Bone Rush, 11, 25, 10, 90, Physical, Attacks 2-5 times in a row
+048, Bonemerang, 11, 50, 10, 90, Physical, Attacks twice in a row
+049, Boomburst, 13, 140, 10, 100, Special, NULL
+050, Bounce, 08, 85, 5, 85, Physical, User jumps into air and attacks on second turn. 30% chance of causing paralysis
+051, Brave Bird, 08, 120, 15, 100, Physical, User takes recoil damage equal to a third of damage inflicted
+052, Brick Break, 06, 75, 15, 100, Physical, Destroys protective barriers
+053, Brine, 18, 65, 10, 100, Special, If target is below half HP power is doubled
+054, Bubble, 18, 40, 30, 100, Special, 10% chance of lowering target's speed one stage
+055, Bubble Beam, 18, 65, 20, 100, Special, May lower opponents speed one stage
+056, Bug Bite, 01, 60, 20, 100, Physical, Removes user's hold Berry
+057, Bug Buzz, 01, 90, 10, 100, Special, 10% chance of lowering opponent's special defense one stage
+058, Bulk Up, 06, 0, 20, 0, Status, Raises user's attack and defense one stage
+059, Bulldoze, 11, 60, 20, 100, Physical, Lowers opponents speed one stage
+060, Bullet Punch, 17, 40, 30, 100, Physical, Always strikes first
+061, Bullet Seed, 10, 25, 30, 100, Physical, Attacks 2-5 times in a row
+062, Calm Mind, 15, 0, 20, 0, Status, Raises user's special attack and special defense one stage
+063, Camouflage, 13, 0, 20, 0, Status, Changes user's type based on terrain
+064, Captivate, 13, 0, 20, 100, Status, Lowers opponent's special attack by two stages if opponent is opposite gender of the user
+065, Charge, 04, 0, 20, 0, Status, Raises user's special defense by one stage and boosts the power of an Electric move if it is used next turn
+066, Charge Beam, 04, 50, 10, 90, Special, 70% chance of raising user's special attack
+067, Charm, 05, 0, 20, 100, Status, Lowers opponents attack two stages
+068, Chatter, 08, 65, 20, 100, Special, Confuses opponent
+069, Chip Away, 13, 70, 20, 100, Physical, User's stat changes do not affect this move
+070, Circle Throw, 06, 60, 10, 90, Physical, Force's opponent to switch Pokemon
+071, Clamp, 18, 35, 15, 85, Physical, Attacks opponent over four to five turns
+072, Clear Smog, 14, 50, 15, 0, Special, Resets all status and ability changes
+073, Close Combat, 06, 120, 5, 100, Physical, Lowers user's defense and special defense by one stage
+074, Coil, 14, 0, 20, 0, Status, Raises user's accuracy, attack, and defense by one stage
+075, Comet Punch, 13, 18, 15, 85, Physical, Attacks two to five times in a row
+076, Confide, 13, 0, 20, 0, Status, Lowers the targets special attack one stage
+077, Confuse Ray, 09, 0, 10, 100, Status, Confuses opponent
+078, Confusion, 15, 50, 25, 100, Special, 10% chance of confusing opponent
+079, Constrict, 13, 10, 35, 100, Physical, 10% chance of lowering target's speed one stage
+080, Copycat, 13, 0, 20, 0, Status, User uses the move used immediately before it
+081, Cosmic Power, 15, 0, 20, 0, Status, Raises user's defense and special defense one stage
+082, Cotton Guard, 10, 0, 10, 0, Status, Raises user's defense three stages
+083, Cotton Spore, 10, 0, 40, 0, Status, Lowers opponents speed two stages
+084, Counter, 06, 1, 20, 100, Physical, If hit by a physical attack user deals double the damage received
+085, Covet, 13, 60, 25, 100, Physical, May steal opponent's item
+086, Crabhammer, 18, 100, 10, 90, Physical, Has a high critical hit ratio
+087, Crafty Shield, 05, 0, 10, 0, Status, User protects itself and allies from status effect moves
+088, Cross Chop, 06, 100, 5, 80, Physical, High critical hit ratio
+089, Cross Poison, 14, 70, 20, 100, Physical, High critical hit ratio. 10% chance of causing poison
+090, Crunch, 02, 80, 15, 100, Physical, 20% chance of lowering opponent's defense one stage
+091, Crush Claw, 13, 75, 10, 95, Physical, 50% chance of lowering opponent's defense one stage
+092, Curse, 09, 0, 10, 0, Status, For non-ghost Pokemon lowers speed and raises attack and defense one stage. For ghost Pokemon the user loses half maximum HP and gives the opponent a Nightmare
+093, Cut, 13, 50, 20, 95, Physical, Can be used in game to cut down small trees
+094, Dark Pulse, 02, 80, 15, 100, Special, 20% chance of causing opponent to flinch
+095, Dazzling Gleam, 05, 80, 10, 100, Special, NULL
+096, Defend Order, 01, 0, 10, 0, Status, Raises user's defense and special defense one stage
+097, Defense Curl, 13, 0, 40, 0, Status, Raises user's defense one stage. Damage from Rollout is increased
+098, Defog, 08, 0, 15, 0, Status, Lowers target's evasiveness and removes protective barriers
+099, Destiny Bond, 09, 0, 5, 0, Status, If the user faints the opponent will also faint
+100, Detect, 06, 0, 5, 0, Status, User is able to avoid attacks but may fail if used in succession
+101, Dig, 11, 80, 10, 100, Physical, User burrows underground on first turn and attacks on second
+102, Disable, 13, 0, 20, 100, Status, Disables opponent's last move
+103, Disarming Voice, 05, 40, 15, 0, Special, This attack lands without fail
+104, Discharge, 04, 80, 15, 100, Special, 30% chance of causing paralysis
+105, Dive, 18, 80, 10, 100, Physical, User dives under water on first turn and attacks on second
+106, Dizzy Punch, 13, 70, 10, 100, Physical, 20% chance of causing confusion
+107, Double Hit, 13, 35, 10, 90, Physical, Attacks twice in a row
+108, Double Kick, 06, 30, 30, 100, Physical, Attacks twice in a row
+109, Double Slap, 13, 15, 10, 85, Physical, Attacks two to five times in a row
+110, Double Team, 13, 0, 15, 0, Status, Raises user's evasiveness one stage
+111, Double-Edge, 13, 120, 15, 100, Physical, User takes one-third damage inflicted as recoil
+112, Draco Meteor, 03, 130, 5, 90, Special, Lowers user's special attack two stages
+113, Dragon Breath, 03, 60, 20, 100, Special, 30% chance of causing paralysis
+114, Dragon Claw, 03, 80, 15, 100, Physical, NULL
+115, Dragon Dance, 03, 0, 20, 0, Status, Raises user's attack and speed one stage
+116, Dragon Pulse, 03, 85, 10, 100, Special, NULL
+117, Dragon Rage, 03, 10, 100, Special, Always inflicts 40 HP damage
+118, Dragon Rush, 03, 100, 10, 75, Physical, 20% chance of causing target to flinch
+119, Dragon Tail, 03, 60, 10, 90, Physical, Causes opponent to switch Pokemon
+120, Drain Punch, 06, 75, 10, 100, Physical, User recovers half the damage inflicted
+121, Draining Kiss, 05, 50, 10, 100, Special, User recovers 75% of the damage inflicted
+122, Dream Eater, 15, 100, 15, 100, Special, Opponent must be asleep. User recovers half of the damage dealt
+123, Drill Peck, 08, 80, 20, 100, Physical, NULL
+124, Drill Run, 11, 80, 10, 95, Physical, Has high critical hit ratio
+125, Dual Chop, 03, 40, 15, 90, Physical, Attacks twice in a row
+126, Dynamic Punch, 06, 100, 5, 50, Physical, Confuses opponent
+127, Earth Power, 11, 90, 10, 100, Special, 10% chance of lowering opponent's special defense one stage
+128, Earthquake, 11, 100, 10, 100, Physical, Hits digging Pokemon
+129, Echoed Voice, 13, 40, 15, 100, Special, increases in power if teammates use it on consecutive turns
+130, Eerie Impulse, 04, 0, 15, 100, Status, Lowers opponent's special attack two stages
+131, Egg Bomb, 13, 100, 10, 75, Physical, NULL
+132, Electric Terrain, 04, 0, 10, 0, Status, Pokemon on the ground cannot fall asleep for five turns
+133, Electrify, 04, 0, 20, 0, Status, Target's move that turn becomes electric type
+134, Electro Ball, 04, 1, 10, 100, Special, Does damage based on user and target's speed
+135, Electroweb, 04, 55, 15, 95, Special, Lowers opponent's speed one stage
+136, Embargo, 02, 0, 15, 100, Status, Prevents the use of items
+137, Ember, 07, 40, 25, 100, Special, 10% chance of causing burn
+138, Encore, 13, 0, 5, 100, Status, Target repeats last used move for three turns
+139, Endeavor, 13, 1, 5, 100, Physical, Cuts target's HP to equal user's HP
+140, Endure, 13, 0, 10, 0, Status, User endures any attack with at least one HP. Chance of failing rises if used in succession
+141, Energy Ball, 10, 90, 10, 100, Special, 10% chance of lowering opponent's special defense one stage
+142, Entrainment, 13, 0, 15, 100, Status, Makes the target's ability the same as the user's
+143, Eruption, 07, 150, 5, 100, Special, Deals damage based on ratio of current HP over maximum HP
+144, Explosion, 13, 250, 5, 100, Physical, User faints
+145, Extrasensory, 15, 80, 20, 100, Special, 10% chance of causing opponent to flinch
+146, Extreme Speed, 13, 80, 5, 100, Physical, User always strikes first
+147, Facade, 13, 70, 20, 100, Physical, Power is doubled when user is burned, paralyzed, or poisoned
+148, Fairy Lock, 05, 0, 10, 0, Status, Prevents all Pokemon from fleeing on next turn
+149, Fairy Wind, 05, 40, 30, 100, Special, NULL
+150, Fake Out, 13, 40, 10, 100, Physical, User attacks first and causes opponent to flinch. Only works on the yser's first turn in battle
+151, Fake Tears, 02, 0, 20, 100, Status, Lower's opponent's special defense two stages
+152, False Swipe, 13, 40, 40, 100, Physical, target is always left with at least one HP
+153, Feather Dance, 08, 0, 15, 100, Status, Lower's opponent's attack two stages
+154, Feint, 13, 30, 10, 100, Physical, Hits a target using Protect or Detect
+155, Feint Attack, 02, 60, 20, 0, Physical, This attack lands without fail
+156, Fell Stinger, 01, 30, 25, 100, Physical, If the target gets knocked out the user's attack raises two stages
+157, Fiery Dance, 07, 80, 10, 100, Special, 50% chance of raising the user's special attack 
+158, Final Gambit, 06, 1, 5, 100, Special, Deals damage equal to user's HP but kills the user
+159, Fire Blast, 07, 110, 5, 85, Special, 10% chance of causing burn
+160, Fire Fang, 07, 65, 15, 95, Physical, 10% chance of causing flinch or burn
+161, Fire Pledge, 07, 80, 10, 100, Special, Interacts with Water Pledge and Grass Pledge
+162, Fire Punch, 07, 75, 15, 100, Physical, 10% chance of causing burn
+163, Fire Spin, 07, 35, 15, 85, Special, Traps opponent for four to five turns
+164, Fissure, 11, 1, 5, 30, Physical, Cannot hurt opponent's of higher level. One hit KO if it lands
+165, Flail, 13, 1, 15, 100, Physical, Inflicts more damage the less HP the user has
+166, Flame Burst, 07, 70, 15, 100, Special, NULL
+167, Flame Charge, 07, 50, 20, 100, Physical, Raises user's speed one stage
+168, Flame Wheel, 07, 60, 25, 100, Physical, 10% chance of causing burn
+169, Flamethrower, 07, 90, 15, 100, Special, 10% chance of causing burn
+170, Flare Blitz, 07, 120, 15, 100, Physical, 10% chance of causing burn. User receives 1/3 of damage dealt as recoil
+171, Flash, 13, 0, 20, 100, Status, Lowers opponent's accuracy one stage
+172, Flash Cannon, 17, 80, 10, 100, Special, 10% chance of lowering opponent's special defense one stage
+173, Flatter, 02, 0, 15, 100, Status, Confuses target and raises its special attack two stages
+174, Fling, 02, 1, 10, 100, Physical, Flings held item at target. Damage depends upon item thrown
+175, Flower Shield, 05, 0, 10, 0, Status, Increases all Grass-type Pokemon's defense by one stage
+176, Fly, 08, 90, 15, 95, Physical, User is protected the first turn, attacks the second turn
+177, Flying Press, 06, 80, 10, 95, Physical, This move is both fighting and flying type simultaneously
+178, Focus Blast, 06, 120, 5, 70, Special, 10% chance of lowering opponent's special defense
+179, Focus Energy, 13, 0, 30, 0, Status, Increases user's critical hit rate
+180, Focus Punch, 06, 150, 20, 100, Physical, User flinches if hit before attacking
+181, Follow Me, 13, 0, 20, 0, Status, Opponent can only attack the user
+182, Force Palm, 06, 60, 10, 100, Physical, 30% chance of causing paralysis
+183, Foresight, 13, 0, 40, 0, Status, Makes Ghost types vulnerable to Normal and Fighting attacks. Resets opponent's evasiveness
+184, Forest's Curse, 10, 0, 20, 100, Status, Changes target's type to Grass
+185, Foul Play, 02, 95, 15, 100, Physical, Deals  more damage based on how high the opponent's attack is
+186, Freeze-Dry, 12, 70, 20, 100, Special, 10% chance of freezing target. This move is super effective on Water Pokemon
+187, Frenzy Plant, 10, 150, 5, 90, Special, User cannot attack next turn
+188, Frost Breath, 12, 60, 10, 90, Special, Always critical hits
+189, Frustration, 13, 1, 20, 100, Physical, Does less the more friendly the Pokemon is
+190, Fury Attack, 13, 15, 20, 85, Physical, User attacks two to five times in a row
+191, Fury Cutter, 01, 40, 20, 95, Physical, Power increases if used in succession
+192, Fury Swipes, 13, 18, 15, 80, Physical, User attacks two to five times in a row
+193, Future Sight, 15, 120, 10, 100, Special, Damage occurs two turns after the move is used
+194, Gastro Acid, 14, 0, 10, 100, Status, Eliminates the target's ability
+195, Gear Grind, 17, 50, 15, 85, Physical, Attacks twice in a row
+196, Geomancy, 05, 0, 10, 0, Status, On the next turn the user's special attack special defense and speed are raised two stages
+197, Giga Drain, 10, 75, 10, 100, Special, User's HP is restored by half the damage dealt
+198, Giga Impact, 13, 150, 5, 90, Physical, User cannot attack on the next turn
+199, Glare, 13, 0, 30, 100, Status, Paralyzes target
+200, Grass Knot, 10, 1, 20, 100, Special, Deals damage based on weight of the target
+201, Grass Pledge, 10, 80, 10, 100, Special, Interacts with Fire Pledge and Water Pledge
+202, Grass Whistle, 10, 0, 15, 55, Status, Causes sleep
+203, Grassy Terrain, 10, 0, 10, 0, Status, All Pokemon on the ground recover 1/16th of total HP per turn for five turns. Grass type move power is increased for 50%
+204, Gravity, 15, 0, 5, 0, Status, Flying Pokemon can be hit by ground moves. All Pokemon's evasion is lowered two stages
+205, Growl, 13, 0, 40, 100, Status, Lowers opponent's attack one stage
+206, Growth, 13, 0, 40, 0, Status, Raises user's attack and special attack by one stage
+207, Grudge, 09, 0, 5, 0, Status, If user faints deletes the PP of the opponent's last used move
+208, Guard Split, 15, 0, 10, 0, Status, Averages user's special defense and defense with opponent's
+209, Guard Swap, 15, 0, 10, 0, Status, Switches defense and special defense changes with the target
+210, Guillotine, 13, 1, 5, 30, Physical, Cannot affect opponent's higher level than the user. Is a one hit KO if it hits
+211, Gunk Shot, 14, 120, 5, 80, Physical, 30% chance of causing poison
+212, Gust, 08, 40, 35, 100, Special, Hits flying Pokemon
+213, Gyro Ball, 17, 1, 5, 100, Physical, The slower the user, the greater the damage
+214, Hail, 12, 0, 10, 0, Status, All Pokemon other than Ice types take damage for five turns
+215, Hammer Arm, 06, 100, 10, 90, Physical, User's speed is lowered one stage
+216, Harden, 13, 0, 30, 0, Status, Raises user's defense one stage
+217, Haze, 12, 0, 30, 0, Status, Eliminates ability and stat changes
+218, Head Smash, 16, 150, 5, 80, Physical, User receives half damage dealt as recoil
+219, Headbutt, 13, 70, 15, 100, Physical, 30% chance of causing opponent to flinch
+220, Heal Bell, 13, 0, 5, 0, Status, Heals status problems of user's party Pokemon
+221, Heal Block, 15, 0, 15, 100, Status, Opponent's cannot heal in any way for five turns
+222, Heal Order, 02, 0, 10, 0, Status, User recovers half of maximum HP
+223, Heal Pulse, 15, 0, 10, 0, Status, Restores the targets HP by up to half the maximum
+224, Healing Wish, 15, 0, 10, 0, Status, The user faints but the Pokemon replacing it is completely healed
+225, Heart Stamp, 15, 60, 25, 100, Physical, 30% chance of causing the opponent to flinch
+226, Heat Wave, 07, 95, 10, 90, Special, 10% chance of burning target
+227, Heavy Slam, 17, 1, 10, 100, Physical, The more the user outweighs the target the greater the damage
+228, Helping Hand, 13, 0, 20, 0, Status, Boosts the power of the target's next attack
+229, Hex, 09, 65, 10, 100, Special, Doubles damage to a target with a status condition
+230, Hidden Power, 13, 60, 15, 100, Special, Type of this move depends on the user's IVs
+231, High Jump Kick, 06, 130, 10, 90, Physical, If this attack misses the user takes half the damage as recoil
+232, Hone Claws, 02, 0, 15, 0, Status, Raises user's attack and accuracy one stage
+233, Horn Attack, 13, 65, 25, 100, Physical, NULL
+234, Horn Drill, 13, 1, 5, 30, Physical, Cannot hit higher level opponents. If it lands it is a one hit KO
+235, Horn Leech, 10, 75, 10, 100, Physical, User recovers half the damage inflicted
+236, Howl, 13, 0, 40, 0, Status, Raises user's attack one stage
+237, Hurricane, 08, 110, 10, 70, Special, Accuracy varies depending on the weather
+238, Hydro Cannon, 18, 150, 5, 90, Special, User cannot attack next turn
+239, Hydro Pump, 18, 110, 5, 80, Special, NULL
+240, Hyper Beam, 13, 150, 5, 90, Special, User cannot attack next turn
+241, Hyper Fang, 13, 80, 15, 90, Physical, 10% chance of causing target to flinch
+242, Hyper Voice, 13, 90, 10, 100, Special, NULL
+243, Hypnosis, 15, 0, 20, 60, Status, Causes target to fall asleep
+244, Ice Ball, 12, 30, 20, 90, Physical, This move continues for 5 turns and grows stronger with every hit
+245, Ice Beam, 12, 90, 10, 100, Special, 10% chance of freezing target
+246, Ice Fang, 12, 65, 15, 95, Physical, 10% chance of causing freezing or flinching
+247, Ice Punch, 12, 75, 15, 100, Physical, 10% chance of freezing target
+248, Ice Shard, 12, 40, 30, 100, Physical, Always strikes first
+249, Icicle Crash, 12, 85, 10, 90, Physical, 30% chance of causing opponent to flinch
+250, Icicle Spear, 12, 25, 30, 100, Physical, Attacks two to five times in a row
+251, Icy Wind, 12, 55, 15, 95, Special, Lowers opponent's speed one stage
+252, Imprison, 15, 0, 10, 0, Status, Target cannot use moves that are also known by the user
+253, Incinerate, 07, 60, 15, 100, Special, Burns the target's hold Berry
+254, Inferno, 07, 100, 5, 50, Special, Burns the target
+255, Infestation, 02, 20, 35, 100, Special, Traps opponent for four to five turns
+256, Ingrain, 10, 0, 20, 0, Status, User cannot switch but recovers HP every turn
+257, Ion Deluge, 04, 0, 25, 0, Status, Normal type moves become Electric type moves
+258, Iron Defense, 17, 0, 15, 0, Status, Raises user's defense two stages
+259, Iron Head, 17, 80, 15, 100, Physical, 30% chance of causing target to flinch
+260, Iron Tail, 17, 100, 15, 75, Physical, 30% chance of lowering target's defense one stage
+261, Jump Kick, 06, 100, 10, 95, Physical, If attack misses user takes one eighth damage dealt
+262, Karate Chop, 06, 50, 25, 100, Physical, Has a high critical hit ratio
+263, Kinesis, 15, 0, 15, 80, Status, Lowers opponent's accuracy one stage
+264, King's Shield, 17, 0, 10, 0, Status, Lowers opponent's attack two stages if user is hit by a physical attack. User takes no damage
+265, Knock Off, 02, 65, 25, 100, Physical, If target is holding an item the item is lost and this move's power is increased by 50%
+266, Land's Wrath, 11, 90, 10, 100, Physical, NULL
+267, Last Resort, 13, 140, 5, 100, Physical, Can only be used if user has used all other known moves this battle
+268, Lava Plume, 07, 80, 15, 100, Special, 30% chance of causing a burn
+269, Leaf Blade, 10, 90, 15, 100, Physical, Has a high critical hit ratio
+270, Leaf Storm, 10, 130, 5, 90, Special, Lowers user's special attack two stages
+271, Leaf Tornado, 10, 65, 10, 90, Special, 50% chance of lowering opponent's accuracy one stage
+272, Leech Life, 01, 20, 15, 100, Physical, User recovers half the damage inflicted
+273, Leech Seed, 10, 0, 10, 90, Status, User steals HP from the opponent every turn
+274, Leer, 13, 0, 30, 100, Status, Lowers opponent's defense one stage
+275, Lick, 09, 30, 30, 100, Physical, 30% chance of causing paralysis
+276, Light Screen, 15, 0, 30, 0, Status, Halves special attack damage inflicted upon user
+277, Lock-On, 13, 0, 5, 0, Status, Ensures the user's next move will not fail
+278, Lovely Kiss, 13, 0, 10, 75, Status, Causes target to fall asleep
+279, Low Kick, 06, 1, 20, 100, Physical, Does more damage the heavier the target
+280, Low Sweep, 06, 65, 20, 100, Physical, Lowers opponent's speed one stage
+281, Lucky Chant, 13, 0, 30, 0, Status, Prevents opponents from landing critical hits
+282, Mach Punch, 06, 40, 30, 100, Physical, Always strikes first
+283, Magic Coat, 15, 0, 15, 0, Status, User reflects Status moves back at target
+284, Magic Room, 15, 0, 10, 0, Status, Blocks opponent's hold items' effects for five turns
+285, Magical Leaf, 10, 60, 20, 0, Special, This move lands without fail
+286, Magnet Bomb, 17, 60, 20, 0, Physical, This move lands without fail
+287, Magnet Rise, 04, 0, 10, 0, Status, User is immune to Ground type moves
+288, Magnet Flux, 04, 0, 20, 0, Status, Ally Pokemon with the Plus or Minus ability have their defense and special defense raised one stage
+289, Magnitude, 11, 1, 30, 100, Physical, The user gets a random number from four to ten. The higher the number the higher the damage
+290, Mat Block, 06, 0, 15, 0, Status, Move must be used on first turn. It protects user and allies from damage
+291, Me First, 13, 1, 20, 0, Status, The user uses the target's move first and with greater power
+292, Mean Look, 13, 0, 5, 0, Status, Prevents the opponent from escaping
+293, Meditate, 15, 0, 40, 0, Status, Raises user's attack one stage
+294, Mega Drain, 10, 40, 15, 100, Special, User recovers half the damage inflicted
+295, Mega Kick, 13, 120, 5, 75, Physical, NULL
+296, Mega Punch, 13, 80, 20, 85, Physical, NULL
+297, Megahorn, 01, 120, 10, 85, Physical, NULL
+298, Memento, 02, 0, 10, 100, Status, The user faints from using this move. The target's special attack and attack are harshly lowered
+299, Metal Burst, 17, 1, 10, 100, Physical, The user retaliate with more power against the target that last inflicted damage on it
+300, Metal Claw, 17, 50, 35, 95, Physical, 10% chance of raising user's attack one stage
+301, Metal Sound, 17, 0, 40, 85, Status, Lowers opponent's special defense two stages
+302, Meteor Mash, 17, 90, 10, 90, Physical, 20% chance of raising user's attack one stage
+303, Metronome, 13, 0, 10, 0, Status, User selects and uses a random move
+304, Milk Drink, 13, 0, 10, 0, Status, User recovers half its maximum HP
+305, Mimic, 13, 0, 10, 0, Status, The user copies the target's last move
+306, Mind Reader, 17, 0, 5, 0, Status, Ensures user's next move will not fail
+307, Minimize, 13, 0, 10, 0, Status, Raises user's evasiveness two stages
+308, Miracle Eye, 15, 0, 40, 0, Status, Enables Psychic type moves to hit Dark type Pokemon. Ensures next move to hit
+309, Mirror Coat, 15, 1, 20, 100, Special, Counters the foe's special attack at double the power
+310, Mirror Move, 08, 0, 20, 0, Status, Uses the last move used by an opponent
+311, Mirror Shot, 17, 65, 10, 85, Special, 30% chance of lowering opponent's accuracy one stage
+312, Mist, 12, 0, 30, 0, Status, Stops ability reductions
+313, Misty Terrain, 05, 0, 10, 0, Status, All Pokemon on the ground are immune to status conditions. Dragon-type moves are halved in power
+314, Moonblast, 05, 95, 15, 100, Special, 30% chance of lowering opponent's special attack one stage
+315, Moonlight, 05, 0, 5, 0, Status, The user recovers HP depending on the weather
+316, Morning Sun, 13, 0, 5, 0, Status, The user recovers HP depending on the weather
+317, Mud Bomb, 11, 65, 10, 85, Special, 30% chance of lowering opponent's accuracy one stage
+318, Mud Shot, 11, 55, 15, 95, Special, Lowers opponent's speed one stage
+319, Mud Sport, 11, 0, 15, 0, Status, Lowers the power of Electric type moves
+320, Mud-Slap, 11, 20, 10, 100, Special, Lowers the opponent's accuracy one stage
+321, Muddy Water, 18, 90, 10, 85, Special, 30% chance of lowering opponent's accuracy one stage
+322, Mystical Fire, 07, 65, 10, 100, Speical, Lowers opponent's special attack one stage
+323, Nasty Plot, 02, 0, 20, 0, Status, Raises user's special attack two stages
+324, Natural Gift, 13, 1, 15, 100, Physical, The user does different damage depending on the held Berry
+325, Nature Power, 13, 0, 20, 0, Status, This move acts as a different move depending on the terrain
+326, Needle Arm, 10, 60, 15, 100, Physical, 30% chance of causing opponent to flinch
+327, Night Daze, 02, 85, 10, 95, Special, 40% chance of lowering the opponent's accuracy one stage
+328, Night Shade, 09, 1, 15, 100, Special, Inflicts damage equal to the user's level
+329, Night Slash, 02, 70, 15, 100, Physical, Has a high critical hit ratio
+330, Nightmare, 09, 0, 15, 100, Status, Inflicts 1/4 max HP damage to sleeping foe every turn
+331, Noble Roar, 13, 0, 30, 100, Status, Lowers opponent's attack and special attack one stage
+332, Nuzzle, 04, 20, 20, 100, Physical, Causes paralysis
+333, Oblivion Wing, 08, 80, 10, 100, Special, User recovers 75% of damage inflicted
+334, Octazooka, 18, 65, 10, 85, Special, 50% chance of lowering target's accuracy
+335, Odor Sleuth, 13, 0, 40, 0, Status, Resets opponent's evasiveness
+336, Ominous Wind, 09, 60, 5, 100, Special, 10% chance of raising all the user's stats by one stage
+337, Outrage, 03, 120, 10, 100, Physical, User uses this move for two to three turns and then becomes confused
+338, Overheat, 07, 130, 5, 90, Special, Lowers user's special attack two stages
+339, Pain Split, 13, 0, 20, 0, Status, User and opponent share HP
+340, Parabolic Charge, 04, 50, 20, 100, Special, User recovers half the damage inflicted
+341, Parting Shot, 02, 0, 20, 100, Status, Lowers opponent's attack and special attack by one stage and then the user switches out
+342, Payback, 02, 50, 10, 100, Physical, If user moves after target the move's power is doubled
+343, Peck, 08, 35, 35, 100, Physical, NULL
+344, Perish Song, 13, 0, 5, 0, Status, All Pokemon on the field faint in 3 turns
+345, Petal Blizzard, 10, 90, 15, 100, Physical, NULL
+346, Petal Dance, 10, 120, 10, 100, Special, User uses this move for two to three turns and then becomes confused
+347, Phantom Force, 09, 90, 10, 100, Physical, The user is protected first turn and attacks the second
+348, Pin Missile, 01, 25, 20, 95, Physical, Attacks two to five times in a row
+349, Play Nice, 13, 0, 20, 0, Status, Lowers opponent's attack one stage
+350, Play Rough, 05, 90, 10, 90, Physical, 10% chance of lowering opponent's attack one stage
+351, Pluck, 08, 60, 20, 100, Physical, User gains effects of target's held Berry
+352, Poison Fang, 14, 50, 15, 100, Physical, 50% chance of inducing poison
+353, Poison Gas, 14, 0, 40, 90, Status, Induces poison
+354, Poison Jab, 14, 80, 20, 100, Physical, 30% chance of inducing poison
+355, Poison Powder, 14, 0, 35, 75, Status, Induces poison
+356, Poison Sting, 14, 15, 35, 100, Physical, 30% chance of inducing poison
+357, Poison Tail, 14, 50, 25, 100, Physical, High critical hit ratio. 10% chance of inducing poison
+358, Pound, 13, 40, 35, 100, Physical, NULL
+359, Powder, 01, 0, 20, 100, Status, Damages the target if they use a Fire type move afterward
+360, Powder Snow, 12, 40, 25, 100, Special, 10% chance of freezing target
+361, Power Gem, 16, 80, 20, 100, Special, NULL
+362, Power Split, 15, 0, 10, 0, Status, Averages user's attack and special attack with its target's
+363, Power Swap, 15, 0, 10, 0, Status, Switches attack and special attack changes with opponent
+364, Power Trick, 15, 0, 10, 0, Status, Switches user's attack and defense
+365, Power Whip, 10, 120, 10, 85, Physical, NULL
+366, Power-Up Punch, 06, 40, 30, 100, Physical, Raises attack by one stage
+367, Present, 13, 1, 15, 90, Physical, May hit or heal the user or the opponent
+368, Protect, 13, 0, 10, 0, Status, Enables the user to evade attacks. May fail if used in succession
+369, Psybeam, 15, 65, 20, 100, Special, 10% chance of confusing opponent
+370, Psych Up, 13, 0, 10, 0, Status, Copies opponent's stat changes
+371, Psychic, 15, 90, 10, 100, Special, 10% chance of lowering opponent's special defense
+372, Psycho Cut, 15, 70, 20, 100, Physical, Has high critical hit ratio
+373, Psycho Shift, 15, 0, 10, 90, Status, User transfers its status problems to the target
+374, Psyshock, 15, 80, 10, 100, Special, Does damage based upon user's special attack and opponent's defense
+375, Psystrike, 15, 100, 10, 100, Special, Does damage based upon user's special attack and opponent's defense
+376, Psywave, 15, 1, 15, 80, Special, Inflicts damage equal to one to one and a half times the user's level
+377, Punishment, 02, 1, 5, 100, Physical, Gains power for every stat boost the user has had
+378, Pursuit, 02, 40, 20, 100, Physical, Inflicts double damage if target is switching out
+379, Quash, 02, 0, 15, 100, Status, User suppresses the target and makes it go last
+380, Quick Attack, 13, 40, 30, 100, Physical, Always strikes first
+381, Quick Guard, 06, 0, 15, 0, Status, User protects from speed priority moves
+382, Quiver Dance, 01, 0, 20, 0, Status, Raises user's special attack, special defense, and speed by one stage
+383, Rage, 13, 20, 20, 100, Physical, User's attack raises if user is hit
+384, Rage Powder, 01, 0, 20, 0, Status, Opponent can only attack the user
+385, Rain Dance, 18, 0, 5, 0, Status, Causes rain for five turns
+386, Rapid Spin, 13, 20, 40, 100, Physical, User is freed from binding moves
+387, Razor Leaf, 10, 55, 25, 95, Physical, Has high critical hit ratio
+388, Razor Shell, 18, 75, 10, 95, Physical, 50% chance of lowering opponent's defense one stage
+389, Razor Wind, 13, 80, 10, 100, Special, Charges on first turn and attacks on second. Has high critical hit ratio
+390, Recover, 13, 0, 10, 0, Status, User recovers half the maximum HP
+391, Recycle, 13, 0, 10, 0, Status, Recycles an already used held item
+392, Reflect, 15, 0, 20, 0, Status, Halves attack damage inflicted on user
+393, Reflected Type, 13, 0, 15, 0, Status, Makes opponent's type match user
+394, Refresh, 13, 0, 20, 0, Status, The user is cured of poison, burn, or paralysis
+395, Rest, 15, 0, 10, 0, Status, User restores health and sleeps for two turns
+396, Retaliate, 13, 70, 5, 100, Physical, If a teammate is knocked out in the turn before this move's power is doubled
+397, Return, 13, 1, 20, 100, Physical, Does more damage the more the user likes its Trainer
+398, Revenge, 06, 60, 10, 100, Physical, Power doubles if user is hit before attacking
+399, Reversal, 06, 1, 15, 100, Physical, Becomes more powerful the lower the user's HP is
+400, Roar, 13, 0, 20, 0, Status, Switches the opponent Pokemon out
+401, Rock Blast, 16, 25, 10, 90, Physical, Attacks two to five times in a row
+402, Rock Climb, 13, 90, 20, 85, Physical, 20% chance of confusing opponent
+403, Rock Polish, 16, 0, 20, 0, Status, Raises user's speed two stages
+404, Rock Slide, 16, 75, 10, 90, Physical, 30% chance of causing opponent to flinch
+405, Rock Smash, 06, 40, 15, 100, Physical, 50% chance of lowering opponent's defense one stage
+406, Rock Throw, 16, 50, 15, 90, Physical, NULL
+407, Rock Tomb, 16, 60, 15, 95, Physical, Lowers opponent's speed one stage
+408, Rock Wrecker, 16, 150, 5, 90, Physical, User cannot attack on the next turn
+409, Role Play, 15, 0, 10, 0, Status, Copies target's ability
+410, Rolling Kick, 06, 60, 15, 85, Physical, 30% chance of causing opponent to flinch
+411, Rollout, 16, 30, 20, 90, Physical, Uses the same move for five turns. Move's power raises if it hits
+412, Roost, 08, 0, 10, 0, Status, User is no longer Flying type. User recovers half of max HP
+413, Rototiller, 11, 0, 10, 0, Status, Raises attack and special attack of Grass type Pokemon on the field
+414, Round, 13, 60, 15, 100, Special, Increases power if used consecutively
+415, Sacred Sword, 06, 90, 20, 100, Physical, This move is immune to the target's stat changes
+416, Safeguard, 13, 0, 25, 0, Status, Prevents all status problems for five turns
+417, Sand Attack, 11, 0, 15, 100, Status, Lowers opponent's accuracy one stage
+418, Sand Tomb, 11, 35, 15, 85, Physical, Traps opponent for four to five turns
+419, Sandstorm, 16, 0, 10, 0, Status, Damages all non Rock Ground and Steel types for five turns
+420, Scald, 18, 80, 15, 100, Special, 30% chance of burning target
+421, Scary Face, 13, 0, 10, 100, Status, Lowers opponent's speed two stages
+422, Scratch, 13, 40, 35, 100, Physical, NULL
+423, Screech, 13, 0, 40, 85, Status, Lowers opponent's defense two stages
+424, Secret Power, 13, 70, 20, 100, Physical, Attack gains effects depending on the user's environment
+425, Seed Bomb, 10, 80, 15, 100, Physical, NULL
+426, Seismic Toss, 06, 1, 20, 100, Physical, Inflicts damage equal to the user's level
+427, Self-Destruct, 13, 200, 5, 100, Physical, User faints
+428, Shadow Ball, 09, 80, 15, 100, Special, 20% chance of lowering opponent's special defense
+429, Shadow Claw, 09, 70, 15, 100, Physical, Has a high critical hit ratio
+430, Shadow Punch, 09, 60, 20, 0, Physical, This move lands without fail
+431, Shadow Sneak, 09, 40, 30, 100, Physical, Always strikes first
+432, Sharpen, 13, 0, 30, 0, Status, Raises user's attack one stage
+433, Sheer Cold, 12, 1, 5, 30, Special, Cannot hit a higher level opponent. If it hits it is a one hit KO
+434, Shell Smash, 13, 0, 15, 0, Status, Lowers user's defense and special defense by one stage and increases attack special attack and speed by two stages
+435, Shift Gear, 17, 0, 10, 0, Status, Raises user's attack one stage and speed two stages
+436, Shock Wave, 04, 60, 20, 0, Special, This move lands without fail
+437, Signal Beam, 01, 75, 15, 100, Special, 10% chance of confusing the target
+438, Silver Wind, 01, 60, 5, 100, Special, 10% chance of raising all the user's stats one stage
+439, Simple Beam, 13, 0, 15, 100, Status, Changes target's ability to Simple
+440, Sing, 13, 0, 15, 55, Status, Induces sleep
+441, Sketch, 13, 0, 1, 0, Status, Copies the opponent's last move forever
+442, Skill Swap, 15, 0, 10, 0, Status, User and the target trade abilities
+443, Skull Bash, 13, 130, 10, 100, Physical, Attacks on second turn. Raises user's defense one stage
+444, Sky Attack, 08, 140, 5, 90, Physical, User attacks on second turn. Has a high critical hit ratio. 30% chance of causing opponent to flinch
+445, Sky Drop, 08, 60, 10, 100, Physical, Target is taken into the sky and returned next turn
+446, Sky Uppercut, 06, 85, 15, 90, Physical, Can hit an opponent using Fly
+447, Slack Off, 13, 0, 10, 0, Status, User recovers half of its maximum HP
+448, Slam, 13, 80, 20, 75, Physical, NULL
+449, Slash, 13, 70, 20, 100, Physical, Has high critical hit ratio
+450, Sleep Powder, 10, 0, 15, 75, Status, Induces sleep
+451, Sleep Talk, 13, 0, 10, 0, Status, Uses a random move from the moves it knows while asleep
+452, Sludge, 14, 65, 20, 100, Special, 30% chance of poisoning target
+453, Sludge Bomb, 14, 90, 10, 100, Special, 30% chance of poisoning target
+454, Sludge Wave, 14, 95, 10, 100, Special, 10% chance of poisoning target
+455, Smack Down, 16, 50, 15, 100, Physical, Flying or Levitating Pokemon are knocked to the ground
+456, Smelling Salts, 13, 70, 10, 100, Physical, Deals double damage to a paralyzed target and then removes paralysis
+457, Smog, 14, 30, 20, 70, Special, 40% chance of poisoning target
+458, Smokescreen, 13, 0, 20, 100, Lowers opponent's accuracy one stage
+459, Snarl, 02, 55, 15, 95, Special, Lowers opponent's special attack one stage
+460, Snatch, 02, 0, 10, 0, Status, The user steals the effects of any healing or stat changing move the opponent uses
+461, Snore, 13, 50, 15, 100, Special, Can only be used while asleep. 30% chance of causing target to flinch
+462, Soak, 18, 0, 20, 100, Status, Changes opponent's type to Water
+463, Soft-Boiled, 13, 0, 10, 0, Status, User recovers half the maximum HP
+464, Solar Beam, 10, 120, 10, 100, Special, User waits a turn and and attacks
+465, Sonic Boom, 13, 1, 20, 90, Special, Always deals 20 HP damage
+466, Spark, 04, 65, 20, 100, Physical, 30% chance of paralyzing the target
+467, Spider Web, 01, 0, 10, 0, Status, Prevents opponent from escaping
+468, Spike Cannon, 13, 20, 15, 100, Physical, Attacks two to five times in a row
+469, Spikes, 11, 0, 20, 0, Status, Deals damage to opponents when switching Pokemon
+470, Spiky Shield, 10, 0, 10, 0, Status, Damages opponent by one eighth maximum hit points if hit by physical contact
+471, Spit Up, 13, 1, 10, 100, Special, Deals damage based on number of times the user has used Stockpile
+472, Spite, 09, 0, 10, 100, Status, Opponent's last move loses two to five PP
+473, Splash, 13, 0, 40, 0, Status, NULL
+474, Spore, 10, 0, 15, 100, Status, Puts target to sleep
+475, Stealth Rock, 16, 0, 20, 0, Status, Deals damage to opponents when switching Pokemon
+476, Steamroller, 01, 65, 20, 100, Physical, 30% chance of causing target to flinch
+477, Steel Wing, 17, 70, 25, 90, Physical, 10% chance of raising user's defense one stage
+478, Sticky Web, 01, 0, 20, 0, Status, When opponent switches Pokemon its speed is lowered
+479, Stockpile, 13, 0, 20, 0, Status, User charges for Swallow or Spit Up. User raises both defense and special defense by one stage
+480, Stomp, 13, 65, 20, 100, Physical, 30% chance of causing opponent to flinch
+481, Stone Edge, 16, 100, 5, 80, Physical, Has a high critical hit ratio
+482, Stored Power, 15, 20, 10, 100, Special, Deals more damage if user's stats are raised
+483, Storm Throw, 06, 60, 10, 100, Physical, Always critical hits
+484, Strength, 13, 80, 15, 100, Physical, NULL
+485, String Shot, 01, 0, 40, 95, Status, Lowers targets speed one stage
+486, Struggle Bug, 01, 50, 20, 100, Special, Lowers targets special attack one stage
+487, Stun Spore, 10, 0, 30, 75, Status, Induces paralysis
+488, Submission, 06, 80, 25, 80, Physical, User takes 25% of damage dealt as recoil
+489, Substitute, 13, 0, 10, 0, Status, User creates a decoy using one fourth of maximum HP
+490, Sucker Punch, 02, 80, 5, 100, Physical, Always attacks first but only lands if target was going to hurt the user
+491, Sunny Day, 07, 0, 5, 0, Status, Creates Sunshine for 5 turns
+492, Super Fang, 13, 1, 10, 90, Physical, Cuts half the target's HP
+493, Superpower, 06, 120, 5, 100, Physical, Lowers user's attack and defense one stage
+494, Supersonic, 13, 0, 20, 55, Status, Induces confusion
+495, Surf, 18, 90, 15, 100, Special, NULL
+496, Swagger, 13, 0, 15, 90, Status, Induces confusion. Raises target's attack two stages
+497, Swallow, 13, 0, 10, 0, Status, User restores HP based on Stockpile usage
+498, Sweet Kiss, 05, 0, 10, 75, Status, Induces confusion
+499, Sweet Scent, 13, 0, 20, 100, Status, Lowers opponent's evasion two stages
+500, Swift, 13, 60, 20, 0, Special, This attack lands without fail
+501, Switcheroo, 02, 0, 10, 100, Status, User trades items with opponent
+502, Swords Dance, 13, 0, 20, 0, Status, Raises user's attack two stages
+503, Synchronoise, 15, 120, 15, 100, Special, Inflicts damage on Pokemon of the same type as the user
+504, Synthesis, 10, 0, 5, 0, Status, User restores HP based on the weather
+505, Tackle, 13, 50, 35, 100, Physical, NULL
+506, Tail Glow, 01, 0, 20, 0, Status, Raises user's special attack three stages
+507, Tail Slap, 13, 25, 10, 85, Physical, Attacks two to five times in a row
+508, Tail Whip, 13, 0, 30, 100, Status, Lowers opponent's defense one stage
+509, Tailwind, 08, 0, 30, 0, Status, Increases speed of all allies by one stage for three turns
+510, Take Down, 13, 90, 20, 85, Physical, User takes recoil equal to 25% of damage
+511, Taunt, 02, 0, 20, 100, Status, Opponent can only use attack moves
+512, Teeter Dance, 13, 0, 20, 100, Status, Confuses all Pokemon on the field
+513, Telekinesis, 15, 0, 15, 0, Status, Gives the target Levitate but resets target's evasion stat
+514, Teleport, 15, 0, 20, 0, Status, Switches user's Pokemon
+515, Thief, 02, 60, 25, 100, Physical, Steals opponent's held item
+516, Thrash, 13, 120, 10, 100, Physical, Attacks for two to three turns and then becomes confused
+517, Thunder, 04, 110, 10, 70, Special, 30% chance of paralyzing opponent
+518, Thunder Fang, 04, 65, 15, 95, Physical, 10% chance of causing target to flinch or be paralyzed
+519, Thunder Punch, 04, 75, 15, 100, Physical, 10% chance of paralyzing target
+520, Thunder Shock, 04, 40, 30, 100, Special, 10% chance of paralyzing target
+521, Thunder Wave, 04, 0, 20, 100, Status, Induces Paralysis
+522, Thunderbolt, 04, 90, 15, 100, Special, 10% chance of paralyzing target
+523, Tickle, 13, 0, 20, 100, Status, Lowers opponent's attack and defense one stage
+524, Topsy-Turvy, 02, 0, 20, 100, Status, Inverts all the target's stat changes
+525, Torment, 02, 0, 15, 100, Status, Opponent cannot use the same move twice in a row
+526, Toxic, 14, 0, 10, 90, Status, Induces severe poison
+527, Toxic Spikes, 14, 0, 20, 0, Status, Poison opponent's Pokemon as they switch into battle
+528, Transform, 13, 0, 10, 0, Status, User transforms into the target Pokemon
+529, Tri Attack, 13, 80, 10, 100, Special, 20% chance of causing burn, freeze, or paralysis
+530, Trick, 15, 0, 10, 100, Status, User trades items with opponent
+531, Trick Room, 15, 0, 5, 0, Status, Inverts speed for five turns
+532, Trick-or-Treat, 09, 0, 20, 100, Status, Adds Ghost to the target's type
+533, Triple Kick, 06, 10, 10, 90, Physical, Attacks one to three times in a row
+534, Trump Card, 13, 1, 5, 0, Special, The fewer PP this move has the greater the power
+535, Twineedle, 01, 25, 20, 100, Physical, Attacks twice. 20% chance of poisoning target
+536, Twister, 03, 40, 20, 100, Special, 20% chance of causing opponent to flinch. Double damage against Pokemon using Fly
+537, U-turn, 01, 70, 20, 100, Physical, Pokemon switches with an ally after attacking
+538, Uproar, 13, 90, 10, 100, Special, User attacks for three turns during which no one can fall asleep
+539, Vacuum Wave, 06, 40, 30, 100, Special, Always strikes first
+540, Venom Drench, 14, 0, 20, 100, Status, Lowers opponent's attack special attack and speed one stage if target is poisoned
+541, Venoshock, 14, 65, 10, 100, Special, Doubles damage if target is poisoned
+542, Vice Grip, 13, 55, 30, 100, Physical, NULL
+543, Vine Whip, 10, 45, 25, 100, Physical, NULL
+544, Vital Throw, 06, 70, 10, 0, Physical, This move lands without fail but makes the user go last
+545, Volt Switch, 04, 70, 100, Special, Pokemon switches with an ally after attacking
+546, Wake-Up Slap, 06, 70, 10, 100, Physical, Deals major damage against a sleeping Pokemon but wakes the target
+547, Water Gun, 18, 40, 25, 100, Special, NULL
+548, Water Pledge, 18, 80, 100, Special, Interacts with Fire Pledge and Grass Pledge
+549, Water Pulse, 18, 60, 20, 100, Special, 20% chance of causing confusion
+550, Water Shuriken, 18, 15, 20, 100, Physical, Attacks two to five times in a row
+551, Water Sport, 18, 0, 15, 0, Status, Lowers the power of Fire type moves
+552, Water Spout, 18, 150, 5, 100, Special, Does damages based on current percentage of maximum HP
+553, Waterfall, 18, 80, 15, 100, Physical, 20% chance of causing opponent to flinch
+554, Weather Ball, 13, 50, 10, 100, Special, Varies in power and type based on the weather
+555, Whirlpool, 18, 35, 15, 85, Special, Traps opponent for four to five turns
+556, Whirlwind, 13, 0, 20, 0, Status, Switches out the opponent's Pokemon
+557, Wide Guard, 16, 0, 10, 0, Status, Protects user and allies from wide ranging attacks
+558, Wild Charge, 04, 90, 15, 100, Physical, User takes 25% of damage as recoil
+559, Will-O-Wisp, 07, 0, 15, 85, Status, Induces burn
+560, Wing Attack, 08, 60, 35, 100, Physical, NULL
+561, Wish, 13, 0, 10, 0, Status, User recovers HP after one turn delay
+562, Withdraw, 18, 0, 40, 0, Status, Raises user's defense one stage
+563, Wonder Room, 15, 0, 10, 0, Status, Switches all Pokemon's defense and special defense for five turns
+564, Wood Hammer, 10, 120, 15, 100, Physical, User take recoil equal to one third of the damage 
+565, Work Up, 13, 0, 30, 0, Status, Raises user's attack and special attack one stage
+566, Worry Seed, 10, 0, 10, 100, Status, Target's ability becomes Insomnia
+567, Wrap, 13, 15, 20, 90, Physical, Traps opponent for four to five turns
+568, Wring Out, 13, 1, 5, 100, Special, Deals damage based on target's current HP out of maximum HP
+569, X-Scissor, 01, 80, 15, 100, Physical, NULL
+570, Yawn, 13, 0, 10, 0, Status, Opponent falls asleep after a one turn delay
+571, Zap Cannon, 04, 120, 5, 50, Special, Induces paralysis
+572, Zen Headbutt, 15, 80, 15, 90, Physical, 20% chance of causing opponent to flinch
+573, Pay Day, 13, 40, 20, 100, Physical, User gains coins after the battle
+574, Conversion, 13, 0, 30, 0, Status, User changes its type into the type of one of its moves
+575, Conversion 2, 13, 0, 30, 0, Status, User changes type into type of opponent's last move
+576, Aeroblast, 08, 100, 5, 95, Special, Has high critical hit ratio
+577, Sacred Fire, 07, 100, 5, 95, Physical, 50% chance of causing burn
+578, Luster Purge, 15, 70, 5, 100, Special, Lowers opponent's special defense one stage
+579, Doom Desire, 17, 140, 5, 100, Special, Damages opponent two turns after use
+580, Psycho Boost, 15, 140, 5, 90, Special, Lowers user's special attack two stages
+581, Mist Ball, 15, 70, 5, 100, Special, Lowers opponent's special attack one stage

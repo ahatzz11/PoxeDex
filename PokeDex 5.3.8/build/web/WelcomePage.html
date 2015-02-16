@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<!--
+To change this license header, poopers, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <style type="text/css">
+
+            /* CSS code */
+            #menu 
+            {
+                background: #333;
+                height: 30px;
+            }
+            #menu ul 
+            {
+                margin:0;padding:0;
+            }
+            #menu ul a 
+            {
+                text-decoration: none;
+            }
+            #menu ul li 
+            {
+                list-style: none;
+                float: left;
+                position: relative;
+            }
+            #menu ul li a 
+            {
+                background: #333;
+                color: #fff;
+                border: 1px solid #333;
+                display: block;
+                padding: 4px;
+                width: 154px;
+            }
+            #menu ul ul 
+            {
+                padding:0;
+                overflow: hidden;
+            }
+            #menu ul ul li 
+            {
+                float: none;
+                display: none;
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;  
+            }
+            #menu ul ul li a 
+            {  
+                background: #f0f0f0;
+                color: #333;
+                border:none;
+            }
+            #menu ul ul li a:hover 
+            {
+                background: #ccc;
+            }
+            #menu ul li a:hover, 
+            #menu ul li:hover ul li 
+            {
+                display:block !important;
+            }
+
+
+        </style>
+        
+        <title>POKEDEX</title>
+        
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width">
+    </head>
+    <body background="pokemon-list.png">
+        
+        <div style="background-color:white; width: 320px"><font face="Source Sans Pro" size="500px">X & Y Pokédex</font></div>
+        
+  <div id="menu">
+   <ul>
+    <li><a href="#">Pokemon</a>
+      <ul>
+        <li><a href="MovesPage.html">Moves</a></li>
+        <li><a href="DetailsPage.html">Details</a></li>
+        <li><a href="StatsPage.html">Stats</a></li>
+      </ul>
+    </li>
+   </ul>
+</div>
+
+    </body>
+</html>

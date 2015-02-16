@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor. Tom TOM
+-->
+<html>
+    <style type="text/css">
+
+            /* CSS code */
+            #menu 
+            {
+                background: #333; 
+                height: 30px;
+            }
+            #menu ul 
+            {
+                margin:0;padding:0;
+            }
+            #menu ul a 
+            {
+                text-decoration: none;
+            }
+            #menu ul li 
+            {
+                list-style: none;
+                float: left;
+                position: relative;
+            }
+            #menu ul li a 
+            {
+                background: #333;
+                color: #fff;
+                border: 1px solid #333;
+                display: block;
+                padding: 4px;
+                width: 154px;
+            }
+            #menu ul ul 
+            {
+                padding:0;
+                overflow: hidden;
+            }
+            #menu ul ul li 
+            {
+                float: none;
+                display: none;
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;  
+            }
+            #menu ul ul li a 
+            {  
+                background: #f0f0f0;
+                color: #333;
+                border:none;
+            }
+            #menu ul ul li a:hover 
+            {
+                background: #ccc;
+            }
+            #menu ul li a:hover, 
+            #menu ul li:hover ul li 
+            {
+                display:block !important;
+            }
+
+
+        </style>
+    <body background="pokemon-list.png">
+        <div id="menu">
+   <ul>
+    <li><a href="#">Pokemon</a>
+      <ul>
+        <li><a href="MovesPage.html">Moves</a></li>
+        <li><a href="DetailsPage.html">Details</a></li>
+        <li><a href="StatsPage.html">Stats</a></li>
+      </ul>
+    </li>
+   </ul>
+      <br/><br/><br/><br/><br/><br/>  
+      <table border="1" width="600" style="margin-left: 100px; background: white">
+          <tr>
+              <td>
+                    What's the move name you are looking for?
+            </td>
+              <td>
+                  <FORM METHOD=POST ACTION="DisplayPage.jsp" >
+                        <INPUT TYPE="TEXT" NAME="classMoveName" size="20" > <INPUT TYPE=SUBMIT>
+                        <br/>
+                </FORM>
+             </td>
+          </tr>
+          <br/><br/>
+          <tr>         
+             <td>
+                    What's the move type you are looking for? 
+            </td>
+             <td>
+                <FORM METHOD=POST ACTION="DisplayPage.jsp">
+                    <INPUT TYPE=TEXT NAME=classMoveType SIZE=20>    <INPUT TYPE=SUBMIT>
+                </FORM>
+             </td>
+          </tr>
+          <tr>         
+             <td>
+                    Show Pokemon that can learn this move: 
+            </td>
+             <td>
+                <FORM METHOD=POST ACTION="DisplayPage.jsp">
+                    <INPUT TYPE=TEXT NAME=classMoveLearnMove SIZE=20>    <INPUT TYPE=SUBMIT>
+                </FORM>
+             </td>
+          </tr>
+      </table>
+</div>
+
+    </body>
+</html>

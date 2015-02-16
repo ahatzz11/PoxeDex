@@ -1,0 +1,17 @@
+00, NULL
+01, Bug
+02, Ditto
+03, Dragon
+04, Fairy
+05, Field
+06, Flying
+07, Grass
+08, Human-like
+09, Amorphous
+10, Mineral
+11, Monster
+12, Plant
+13, Water 1
+14, Water 2
+15, Water 3
+16, None
